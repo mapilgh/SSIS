@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "SSIShd", "SSIShd\SSIShd.dtproj", "{2D16EC2E-8992-7D7E-2340-017C48998BE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D16EC2E-8992-7D7E-2340-017C48998BE4}.Development|Default.ActiveCfg = Development
+		{2D16EC2E-8992-7D7E-2340-017C48998BE4}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63309A85-E5AC-415F-B058-0EBC64E680E2}
+	EndGlobalSection
+EndGlobal
